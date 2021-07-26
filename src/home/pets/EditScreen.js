@@ -806,7 +806,7 @@ export default class EditScreen extends React.Component<ScreenParams<{ pet_uid: 
             <View style={styles.inputContainer}>
               <Text style={{
                 padding: 5,
-              }}>Weight:</Text>
+              }}>Weight (kg):</Text>
   
               <TextInput
                   style={styles.input}
